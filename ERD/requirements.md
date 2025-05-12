@@ -74,4 +74,4 @@
   - property_id in the Property and Booking tables.
   - booking_id in the Booking and Payment tables.
  
-    
+ ![erd](https://github.com/webmaster254/alx-airbnb-database/blob/main/ERD/ERD.png)   
